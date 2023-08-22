@@ -10,6 +10,7 @@ const Navbar = () => (
     direction="row"
     alignItems="center"
     p={2}
+    
    
     sx={{
       position: "fixed",
@@ -17,6 +18,7 @@ const Navbar = () => (
       top: "0",
       width: "100%",
       color: "#fff",
+      // border:"2px solid red",
       justifyContent: "space-between",
     }}
   >
