@@ -20,6 +20,7 @@ const Navbar = () => (
       color: "#fff",
       // border:"2px solid red",
       justifyContent: "space-between",
+      padding: {sx: "10px",}
     }}
   >
        <Link to="/" style={{ display: "flex", alignItems: "center" }}>

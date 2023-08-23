@@ -28,6 +28,8 @@ a {
 .category-btn:hover {
   background-color: #FC1503 !important;
   color: white !important;
+  /* border:2px solid red; */
+  
 }
 
 .category-btn:hover span{
@@ -36,7 +38,8 @@ a {
 
 .react-player {
   height: 77vh !important;
-  width: 5px !important;
+  width: 1000px !important;
+  /* border: 2px solid red; */
 }
 
 .search-bar{
